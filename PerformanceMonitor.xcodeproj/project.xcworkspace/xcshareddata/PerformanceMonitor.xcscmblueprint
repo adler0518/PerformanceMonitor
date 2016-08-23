@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "986E3D0C7B32500A61D20D81D54D32F8FD294209",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "151a885f-3fcc-f34a-a0f5-f20a7b2803b9++1274" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "151a885f-3fcc-f34a-a0f5-f20a7b2803b9++1274" : 0,
+    "986E3D0C7B32500A61D20D81D54D32F8FD294209" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8F515DD0-69DF-4ECB-A89C-8316A6F981D1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "151a885f-3fcc-f34a-a0f5-f20a7b2803b9++1274" : "PerformanceMonitor\/PerformanceMonitor\/CrashReporter.framework\/",
+    "986E3D0C7B32500A61D20D81D54D32F8FD294209" : "PerformanceMonitor\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PerformanceMonitor",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PerformanceMonitor.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/tc-svn.tencent.com\/tr\/tr_qqmaster_rep",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "151a885f-3fcc-f34a-a0f5-f20a7b2803b9++1274"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:adler0518\/PerformanceMonitor.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "986E3D0C7B32500A61D20D81D54D32F8FD294209"
+    }
+  ]
+}
